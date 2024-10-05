@@ -1,4 +1,3 @@
-```markdown
 # Resolution-Adaptive Spectrogram
 
 **A simple yet effective method for spectrogram modification.**
@@ -27,9 +26,3 @@ Clone the repository and run the main script in MATLAB. Ensure that the Signal P
 
 ```matlab
 run main_script.m
-```
-
-## Reference
-
-If you use this code or find it helpful, please cite the corresponding paper. The details can be found through the link provided above.
-```
