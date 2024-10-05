@@ -1,5 +1,3 @@
-Certainly! Here's the updated README code, ready for direct use:
-
 ```markdown
 # Resolution-Adaptive Spectrogram
 
@@ -35,5 +33,3 @@ run main_script.m
 
 If you use this code or find it helpful, please cite the corresponding paper. The details can be found through the link provided above.
 ```
-
-Feel free to adjust the placeholder `[Paper Link](#)` with the actual link to your paper when available.
