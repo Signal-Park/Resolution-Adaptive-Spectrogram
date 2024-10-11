@@ -22,8 +22,5 @@ For more details, please refer to the related research paper: [Paper Link](#).
 
 ## How to Use
 
-Clone the repository and run the main script in MATLAB. Ensure that the Signal Processing Toolbox is installed.
-
-### Updated Instructions
-```matlab
-run main.m
+By running the **main.m** file, you can compute the resolution-adaptive spectrogram for the example signal.
+(Note that MATLAB's Signal Processing Toolbox is required for the active frequency range search algorithm.)
