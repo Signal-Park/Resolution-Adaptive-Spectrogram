@@ -9,7 +9,7 @@ The Resolution-Adaptive Spectrogram provides an approach to modify the frequency
 1. **Active Frequency Range Search**: Identifying the range of frequencies where significant activity is observed.
 2. **Nonlinear Frequency Resolution Adjustment**: Adapting the frequency resolution based on the identified active range, ensuring optimal representation.
 
-![Resolution-Adaptive Spectrogram](spectrogram.png)
+![Resolution-Adaptive Spectrogram](introduction.png)
 
 This approach is effective in enhancing the visualization and analysis of time-frequency data, particularly in applications such as human activity recognition.
 
