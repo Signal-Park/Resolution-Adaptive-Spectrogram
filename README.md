@@ -11,7 +11,7 @@ The Resolution-Adaptive Spectrogram provides an approach to modify the frequency
 
 ![Resolution-Adaptive Spectrogram](introduction.png)
 
-This approach is effective in enhancing the visualization and analysis of time-frequency data, particularly in applications such as human activity recognition.
+This technique enables deep learning-based recognition models to achieve more accurate classification of micro-Doppler signature types.
 
 For more details, please refer to the related research paper: [Paper Link](#).
 
