@@ -1,9 +1,6 @@
-# Resolution-Adaptive Spectrogram
+# Resolution-Adaptive Spectrogram: A simple yet effective method for spectrogram modification
 
 **A simple yet effective method for spectrogram modification.**
-
-This repository contains a MATLAB implementation of the resolution-adaptive spectrogram technique. The code requires the Signal Processing Toolbox for execution.
-
 ## Overview
 
 The Resolution-Adaptive Spectrogram provides an approach to modify the frequency resolution of a spectrogram nonlinearly, adapting to the active frequency range dynamically. The process involves:
