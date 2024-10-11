@@ -1,6 +1,6 @@
 # A simple yet effective method for spectrogram transformation
 
-** Resolution-Adaptive Spectrogram: A simple yet effective method for spectrogram transformation.**
+** Resolution-Adaptive Spectrogram: A simple yet effective method for spectrogram transformation. **
 ## Overview
 
 The Resolution-Adaptive Spectrogram provides an approach to modify the frequency resolution of a spectrogram nonlinearly, adapting to the active frequency range dynamically. The process involves:
