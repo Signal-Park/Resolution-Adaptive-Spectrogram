@@ -15,11 +15,6 @@ This technique enables deep learning-based recognition models to achieve more ac
 
 For more details, please refer to the related research paper: [Paper Link](#).
 
-## Prerequisites
-
-- MATLAB
-- Signal Processing Toolbox
-
 ## How to Use
 
 By running the **main.m** file, you can compute the resolution-adaptive spectrogram for the example signal.
